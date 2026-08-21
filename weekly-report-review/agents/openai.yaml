@@ -1,0 +1,4 @@
+interface:
+  display_name: "周报审校助手"
+  short_description: "每周一合并各条线周报时，提供分类建议、行政规范检查和逐条修改意见"
+  default_prompt: "Use $weekly-report-review to 把这几份条线周报分类整合成公司周报底稿，并检查格式和用词问题。"
